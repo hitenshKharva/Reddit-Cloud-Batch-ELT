@@ -7,6 +7,7 @@ The result is a report generated in Looker Studio, which offers valuable informa
 ## Motivation
 
 To design and develop an ETL process to enhance and gain experience in a variety of Data Engineering tools.
+
 Orchestrate a Data Pipeline using dbt, Airflow, Docker, Terraform, Amazon Web Services(AWS) S3 & Redshift and Google Looker Studio to perform analysis and visualization on Reddit data for a given subreddit.
 
 ## Architecture
